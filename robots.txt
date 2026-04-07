@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://try-9ryt.vercel.app//sitemap.xml
+Sitemap: https://bethany-baptish-church-murgiya.vercel.app//sitemap.xml
